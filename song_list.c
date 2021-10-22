@@ -1,4 +1,4 @@
-#import <string.h>
+#include <string.h>
 struct song_list {
   char *name;
   char *artist;
